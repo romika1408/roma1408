@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+#frame {
+    width: 100%; /*ширина*/
+    background-color: #2F4454; /*цвет страницы*/
+    display: table; /*представление в форме таблицы*/
+    height: 100%;
+}
+
+#header {
+    width: 700px;
+    height: 60px;
+    background-color:#2F4454;
+    color:#DA7B93;
+    padding: 10px; /*внутренний отступ*/
+    text-align:center;
+    font-size: xxx-large;
+    font-family: Pangolin;
+
+}
+#content {
+    height: 100%;
+    width: 700px;
+    font-size: 22px;
+    background-color: #2F4454;
+    color: whitesmoke;
+    padding: 30px;
+    font-family: Nunito Sans;
+}
+#content_img{
+    padding: 35px;
+    margin-top:-40px;
+}
+#content_h1{
+    font-size: 40px;
+    text-align: left;
+    color: #DA7B93;
+    font-family:Spectral ;
+}
+
+
+
+
+
+
